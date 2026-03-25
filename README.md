@@ -37,12 +37,16 @@ Seulement des notes **matures et autonomes** :
 
 ```yaml
 ---
-date: YYYY-MM-DD
-auteur: prénom
-source: "[[titre de la source]]"
+member_tag : [add_member_name]
+date: add_today_date (format YYYY-MM-DD)
+MOC:
+  - "[[add_MOC_name]]"
+  - "[[add_MOC_2_name_if_needed]]"
+source: add_source_link
+author: "[[add_author_name]]"
 ---
 
-Contenu de la note...
+Note content...
 ```
 
 ### INBOX
