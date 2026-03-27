@@ -50,6 +50,8 @@ author: "[[author_name]]"
 Note content...
 ```
 
+-> Voir "Templates/Template note Jardin"
+
 ### INBOX
 
 Zone libre : dépôts rapides, questions au groupe, documents de travail communs.

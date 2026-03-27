@@ -5,7 +5,7 @@ date: 2026-03-25
 MOC:
   - "[[MONNAIE]]"
   - "[[ECONOMIE]]"
-source: "[[Rencontres Éco-Citoyennes Du Tiocan by Nicolas Briet, Marilyne Mougel, Bertrand Séné, Eric Servel, Hélène Méniisier, Etienne Hayem]]"
+source: https://readwise.io/reader/document_raw_content/424800385
 author: "[[Jean-François Noubel]]"
 ---
 

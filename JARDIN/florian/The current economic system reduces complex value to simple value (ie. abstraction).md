@@ -4,7 +4,7 @@ tags:
 date: 2026-03-25
 MOC:
   - "[[ECONOMIE]]"
-source: "[[New Economic Series Part 4 by Daniel Schmachtenberger]]"
+source: https://civilizationemerging.com/new-economics-series-4/
 author: "[[Daniel Schmachtenberger]]"
 ---
 
@@ -23,4 +23,4 @@ Evolution is defined by *increasing orderly complexity* leading to increased syn
 - This movement towards reduced, abstracted value is directionally *anti-evolutionary*, *anti-resilience*, and anti-wellbeing for the whole system.
 
 **Therefore**:
-- To ensure that the new system doesn’t eventually self-terminate, it has to have *the same type of complexity-increasing antifragility of the natural world*. 
+- To ensure that the new system doesn’t eventually *self-terminate*, it has to have *the same type of complexity-increasing antifragility of the natural world*. 

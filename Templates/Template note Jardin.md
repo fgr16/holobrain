@@ -1,11 +1,9 @@
 ---
 tags:
-  - member_name
 date:
-  "{ date }":
 MOC:
 source:
-author: "[[]]"
+author:
 ---
 
 ## {{Title}}
