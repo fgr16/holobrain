@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#florian"
+  - member_name
 date:
   "{ date }":
 MOC:
