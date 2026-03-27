@@ -1,6 +1,10 @@
 {
+<<<<<<< HEAD
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
   "alwaysUpdateLinks": true,
   "showInlineTitle": false
+=======
+  "alwaysUpdateLinks": true
+>>>>>>> origin/main
 }

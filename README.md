@@ -37,7 +37,8 @@ Seulement des notes **matures et autonomes** :
 
 ```yaml
 ---
-member_tag : [member_name]
+tags:
+  - member_name
 date: today_date (format YYYY-MM-DD)
 MOC:
   - "[[MOC_name]]"
